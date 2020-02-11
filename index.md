@@ -7,7 +7,7 @@ country: "us"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "32.7903116,-117.2546711"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "March 19, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "1:30pm - 5:00pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "8:30am - noon"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-03-19      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-03-19        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Lauren Michael", "Mats Rynge"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -134,13 +134,13 @@ Display the contact email address set in the configuration file.
   <div class="col-md-8">
     <h2>Schedule and Links</h2>
     <table class="table table-striped">
-      <tr><td>1:30-2:10</td> <td>Introduction to the Open Science Grid</td> <td><a href="https://docs.google.com/presentation/d/1TpLzOx2A9IRKZbZKV7XS4lR72-Eo8R9N5dj5Z0l3gxA/edit?usp=sharing">Slides</a></td></tr>
-      <tr><td>2:10-2:30</td><td>Introduction to Job Submission with HTCondor</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/5000633410-osg-connect-quickstart">Tutorial</a></td></tr>
-      <tr><td>2:30-2:40</td><td>Where Jobs Run in the OSG</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/12000061978-finding-osg-locations">Tutorial</a></td></tr>
-      <tr><td>2:40-3:00</td><td>Submitting Multiple Jobs with HTCondor</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/12000062019-scaling-up-python">Tutorial</a></td></tr>
-      <tr><td>3:00-3:30</td><td>Break</td><td></td></tr>
-      <tr><td>3:30-4:15</td><td>Additional HTCondor Features</td><td><a href="https://docs.google.com/presentation/d/1MMLMFzqqJY7z1mcHJD3A_EuiqU1docq5ld2QlVFPz2s/edit?usp=sharing">Slides</a></td></tr>
-      <tr><td>4:15-5:00</td><td>BLAST workflow example</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/12000062020-blast-example-with-split-files">Tutorial</a></td></tr>
+      <tr><td>8:30-9:10</td> <td>Introduction to the Open Science Grid</td> <td><a href="https://docs.google.com/presentation/d/1TpLzOx2A9IRKZbZKV7XS4lR72-Eo8R9N5dj5Z0l3gxA/edit?usp=sharing">Slides</a></td></tr>
+      <tr><td>9:10-9:30</td><td>Introduction to Job Submission with HTCondor</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/5000633410-osg-connect-quickstart">Tutorial</a></td></tr>
+      <tr><td>9:30-9:40</td><td>Where Jobs Run in the OSG</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/12000061978-finding-osg-locations">Tutorial</a></td></tr>
+      <tr><td>9:40-10:00</td><td>Submitting Multiple Jobs with HTCondor</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/12000062019-scaling-up-python">Tutorial</a></td></tr>
+      <tr><td>10:00-10:30</td><td>Break</td><td></td></tr>
+      <tr><td>10:30-11:15</td><td>Additional HTCondor Features</td><td><a href="https://docs.google.com/presentation/d/1MMLMFzqqJY7z1mcHJD3A_EuiqU1docq5ld2QlVFPz2s/edit?usp=sharing">Slides</a></td></tr>
+      <tr><td>11:15-noon</td><td>BLAST workflow example</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/12000062020-blast-example-with-split-files">Tutorial</a></td></tr>
     </table>
   </div>
 </div>
