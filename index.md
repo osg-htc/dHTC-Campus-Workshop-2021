@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "cp"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
-venue: "OSG AHM 2020 - User Training"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Identifying and Executing Work Appropriate for the Open Science Grid"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "tbd"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
@@ -21,9 +21,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 For a workshop please delete the following block
 {% endcomment %}
 <div class="alert alert-warning" style="font-size: 120%;">
-Could your Gateway or other computational work benefit from the ability to concurrently run hundreds or thousands of independent computations, for free? The Open Science Grid (OSG) facilitates distributed high-throughput computing (dHTC) via a partnership of national labs, universities, and other organizations who contribute and share computing capacity for use by researchers across and beyond the United States. Individual researchers, institutions, or multi-institutional collaborations can access OSG via local submission points or through the OSG Connect service (freely available to U.S. academic, government, and non-profit researchers).   <br>
+Could your computational work benefit from the ability to concurrently run hundreds or thousands of independent computations, for free? The Open Science Grid (OSG) facilitates distributed high-throughput computing (dHTC) via a partnership of national labs, universities, and other organizations who contribute and share computing capacity for use by researchers across and beyond the United States. Individual researchers, institutions, or multi-institutional collaborations can access OSG via local submission points or through the OSG Connect service (freely available to U.S. academic, government, and non-profit researchers).   <br>
   
-  During this 3-hour tutorial, you'll learn to run examples of large HTC workloads and multi-step workflows via the OSG Connect service. If time permits, the OSG User Support team will also help you run your own sample workload on OSG.
+  During this 3-hour tutorial, you'll learn to identify and run large HTC workloads and multi-step workflows via the OSG Connect service. OSG staff can also help you launch your own work!
 </div>
 
 {% comment %}
@@ -140,7 +140,7 @@ Display the contact email address set in the configuration file.
       <tr><td>9:40-10:00</td><td>Submitting Multiple Jobs with HTCondor</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/12000062019-scaling-up-python">Tutorial</a></td></tr>
       <tr><td>10:00-10:30</td><td>Break</td><td></td></tr>
       <tr><td>10:30-11:15</td><td>Additional HTCondor Features</td><td><a href="https://docs.google.com/presentation/d/1MMLMFzqqJY7z1mcHJD3A_EuiqU1docq5ld2QlVFPz2s/edit?usp=sharing">Slides</a></td></tr>
-      <tr><td>11:15-noon</td><td>BLAST workflow example</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/12000062020-blast-example-with-split-files">Tutorial</a></td></tr>
+      <tr><td>11:15-noon</td><td>BLAST Workflow Example</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/12000062020-blast-example-with-split-files">Tutorial</a></td></tr>
     </table>
   </div>
 </div>
