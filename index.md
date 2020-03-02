@@ -134,7 +134,7 @@ Display the contact email address set in the configuration file.
   <div class="col-md-8">
     <h2>Schedule and Links</h2>
     <table class="table table-striped">
-      <tr><td>8:30-8:40</td> <td>User Account Requests</td> <td><a href="https://www.osgconnect.net/signup">Sign up here</a></td></tr>
+      <tr><td>8:30-8:40</td> <td>User Account Requests</td> <td><a href="https://support.opensciencegrid.org/support/solutions/articles/5000632072-registration-and-login-for-osg-connect">Instructions</a> / <a href="https://www.osgconnect.net/signup">Sign up</a></td></tr>
       <tr><td>8:40-9:10</td> <td>Introduction to the Open Science Grid</td> <td><a href="https://docs.google.com/presentation/d/1dyq5FsjIw4mvS5i3sj2Qm90JwuR6pksVMUPyKPT4PHw/edit?usp=sharing">Slides</a></td></tr>
       <tr><td>9:10-9:30</td><td>Introduction to Job Submission with HTCondor</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/5000633410-osg-connect-quickstart">Tutorial</a></td></tr>
       <tr><td>9:30-9:40</td><td>Where Jobs Run in the OSG</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/12000061978-finding-osg-locations">Tutorial</a></td></tr>
