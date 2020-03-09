@@ -6,7 +6,7 @@ address: "Thurman J. White Forum Building, 1704 Asp Avenue, Norman, OK 73072"   
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "35.198132,-97.445449"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "March 19, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "TBD"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "8:30am - noon"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-03-19      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-03-19        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
@@ -20,11 +20,17 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% comment %}
 For a workshop please delete the following block
 {% endcomment %}
+<div class="alert alert-danger" style="font-size: 120%;">
+ This workshop has been postponed, due to concerns about COVID-19. We will update the dates and information on 
+  this website when the workshop has been rescheduled. 
+  </div>
+
+<!--
 <div class="alert alert-warning" style="font-size: 120%;">
 Could your computational work benefit from the ability to concurrently run hundreds or thousands of independent computations, for free? The Open Science Grid (OSG) facilitates distributed high-throughput computing (dHTC) via a partnership of national labs, universities, and other organizations who contribute and share computing capacity for use by researchers across and beyond the United States. Individual researchers, institutions, or multi-institutional collaborations can access OSG via local submission points or through the OSG Connect service (freely available to U.S. academic, government, and non-profit researchers).   <br>
   
   During this 3-hour tutorial, you'll learn to identify and run large HTC workloads and multi-step workflows via the OSG Connect service. OSG staff can also help you launch your own work!
-</div>
+</div> -->
 
 {% comment %}
 EVENTBRITE
