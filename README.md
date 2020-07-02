@@ -1,3 +1,3 @@
-# User Training at OSG AHM 2020
+# Campus Research Computing Tutorial at PEARC 2020
 
-[Website](https://opensciencegrid.github.io/UserTraining-AHM-2020/)
+[Website](https://opensciencegrid.org/Tutorial-PEARC-2020)

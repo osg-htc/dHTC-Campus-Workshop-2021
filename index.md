@@ -1,15 +1,15 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "cp"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
-venue: "Identifying and Executing Work Appropriate for the Open Science Grid"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Thurman J. White Forum Building, 1704 Asp Avenue, Norman, OK 73072"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "Empowering Research Computing at Your Campus Through the Open Science Grid"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "35.198132,-97.445449"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "TBD"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "8:30am - noon"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2020-03-19      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2020-03-19        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+humandate: "Monday, July 27, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "8:00am - 12:00pm PDT"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2020-07-27      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2020-07-27        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Christina Koch", "Carrie Brown", "Mats Rynge"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 # helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["ckoch5@wisc.edu", "carrie.brown@unl.edu", "rynge@isi.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
@@ -20,10 +20,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% comment %}
 For a workshop please delete the following block
 {% endcomment %}
-<div class="alert alert-danger" style="font-size: 120%;">
- This workshop has been postponed, due to concerns about COVID-19. We will update the dates and information on 
-  this website when the workshop has been rescheduled. 
-  </div>
 
 <!--
 <div class="alert alert-warning" style="font-size: 120%;">
@@ -100,7 +96,7 @@ ACCESSIBILITY
 Modify the block below if there are any barriers to accessibility or
 special instructions.
 
-<p id="accessibility">
+<!-- <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
   accessible to everybody.
   The workshop organizers have checked that:
@@ -108,7 +104,7 @@ special instructions.
 <ul>
   <li>The room is wheelchair / scooter accessible.</li>
   <li>Accessible restrooms are available.</li>
-</ul>
+</ul> -->
 {% endcomment %}
 
 {% comment %}
@@ -140,15 +136,13 @@ Display the contact email address set in the configuration file.
   <div class="col-md-8">
     <h2>Schedule and Links</h2>
     <table class="table table-striped">
-      <tr><td>8:30-8:40</td> <td>User Account Requests</td> <td><a href="https://support.opensciencegrid.org/support/solutions/articles/5000632072-registration-and-login-for-osg-connect">Instructions</a> / <a href="https://www.osgconnect.net/signup">Sign up</a></td></tr>
-      <tr><td>8:40-9:10</td> <td>Introduction to the Open Science Grid</td> <td><a href="https://docs.google.com/presentation/d/1dyq5FsjIw4mvS5i3sj2Qm90JwuR6pksVMUPyKPT4PHw/edit?usp=sharing">Slides</a></td></tr>
-      <tr><td>9:10-9:30</td><td>Introduction to Job Submission with HTCondor</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/5000633410-osg-connect-quickstart">Tutorial</a></td></tr>
-      <tr><td>9:30-9:40</td><td>Where Jobs Run in the OSG</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/12000061978-finding-osg-locations">Tutorial</a></td></tr>
-      <tr><td>9:40-10:00</td><td>Submitting Multiple Jobs with HTCondor</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/12000062019-scaling-up-python">Tutorial</a></td></tr>
-      <tr><td>10:00-10:30</td><td>Break</td><td></td></tr>
-      <tr><td>10:30-11:15</td><td>Additional HTCondor Features</td><td><a href="https://docs.google.com/presentation/d/1mwCyBaDZF2UwsHoZV3ewRlop5KorwHHAyRRfp1hEp9I/edit?usp=sharing">Slides</a></td></tr>
-      <tr><td>11:15-11:45</td><td>BLAST Workflow Example</td><td><a href="https://support.opensciencegrid.org/support/solutions/articles/12000062020-blast-example-with-split-files">Tutorial</a></td></tr>
-      <tr><td>11:45-noon</td><td>One-on-one Project Setups</td><td></td></tr>
+      <tr><td>8:00-8:15</td> <td>User Account Requests</td> <td><a href="https://support.opensciencegrid.org/support/solutions/articles/5000632072-registration-and-login-for-osg-connect">Instructions</a> / <a href="https://www.osgconnect.net/signup">Sign up</a></td></tr>
+      <tr><td>8:15-8:50</td> <td>Introduction to the Open Science Grid</td> <td><a href="https://docs.google.com/presentation/d/1dyq5FsjIw4mvS5i3sj2Qm90JwuR6pksVMUPyKPT4PHw/edit?usp=sharing">Slides</a></td></tr>
+      <tr><td>8:50-9:45</td><td>Research on the Open Science Grid</td><td></td></tr>
+      <tr><td>9:45-10:00</td><td>Break</td><td></td></tr>
+      <tr><td>10:00-10:50</td><td>OSG and Campuses</td><td></td></tr>
+      <tr><td>10:50-11:30</td><td>Next Steps</td><td></td></tr>
+      <tr><td>11:30-12:00</td><td>One-on-one Project Setups</td><td></td></tr>
     </table>
   </div>
 </div>
