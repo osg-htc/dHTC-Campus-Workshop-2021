@@ -10,7 +10,7 @@ humandate: "Monday, July 27, 2020"    # human-readable dates for the workshop (e
 humantime: "8:00am - 12:00pm PDT"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-07-27      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-07-27        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Christina Koch", "Carrie Brown", "Mats Rynge"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Christina Koch", "Carrie Brown", "Emelie Fuchs", "Lauren Michael", "Mats Rynge"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 # helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["ckoch5@wisc.edu", "carrie.brown@unl.edu", "rynge@isi.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
@@ -136,13 +136,14 @@ Display the contact email address set in the configuration file.
   <div class="col-md-8">
     <h2>Schedule and Links</h2>
     <table class="table table-striped">
-      <tr><td>8:00-8:15</td> <td>User Account Requests</td> <td><a href="https://support.opensciencegrid.org/support/solutions/articles/5000632072-registration-and-login-for-osg-connect">Instructions</a> / <a href="https://www.osgconnect.net/signup">Sign up</a></td></tr>
-      <tr><td>8:15-8:50</td> <td>Introduction to the Open Science Grid</td> <td><a href="https://docs.google.com/presentation/d/1dyq5FsjIw4mvS5i3sj2Qm90JwuR6pksVMUPyKPT4PHw/edit?usp=sharing">Slides</a></td></tr>
-      <tr><td>8:50-9:45</td><td>Research on the Open Science Grid</td><td></td></tr>
-      <tr><td>9:45-10:00</td><td>Break</td><td></td></tr>
-      <tr><td>10:00-10:50</td><td>OSG and Campuses</td><td></td></tr>
-      <tr><td>10:50-11:30</td><td>Next Steps</td><td></td></tr>
-      <tr><td>11:30-12:00</td><td>One-on-one Project Setups</td><td></td></tr>
+      <tr><td>8:00-8:15 PDT</td> <td>User Account Requests</td> <td><a href="https://support.opensciencegrid.org/support/solutions/articles/5000632072-registration-and-login-for-osg-connect">Instructions</a> / <a href="https://www.osgconnect.net/signup">Sign up</a></td></tr>
+      <tr><td>8:15-8:50 PDT</td> <td>Introduction to the Open Science Grid</td> <td><a href="https://docs.google.com/presentation/d/17efQMhWy_8SapVyiVJw-L8F9Q5-xVHtj0LsbJQqLWwA/edit?usp=sharing">Slides</a> / <a href="https://github.com/OSGConnect/tutorial-osg-locations">Hands-on</a></td></tr>
+      <tr><td>8:50-9:45 PDT</td><td>Research on the Open Science Grid</td><td><a href="https://docs.google.com/presentation/d/1EkMs2gtLVSTSeyjbrxs-dF3IpCOEARQi9qGgeS5VeMU/edit?usp=sharing">Slides</a></td></tr>
+      <tr><td>9:45-10:00 PDT</td><td>Break</td><td></td></tr>
+      <tr><td>10:00-10:20 PDT</td><td>HTCondor Features</td><td><a href="https://docs.google.com/presentation/d/1LBMFaN7EoTkRDSbkkFRJzCgROsf5lKpH-Y5B6Tm3Bdc/edit?usp=sharing">Slides</a></td></tr>
+      <tr><td>10:20-10:50 PDT</td><td>Campus Engagement</td><td></td></tr>
+      <tr><td>10:50-11:15 PDT</td><td>Supporting Your Campus Research on the Open Science Grid</td><a href="https://docs.google.com/presentation/d/17BRyVrqrKfycrD1ApjotwzI1_4Z3tP7Vzk4oEq9X8lY/edit?usp=sharing">Slides</a><td></td></tr>
+      <tr><td>11:15-11:45 PDT</td><td>Discussion</td><td></td></tr>
     </table>
   </div>
 </div>
