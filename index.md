@@ -142,7 +142,7 @@ Display the contact email address set in the configuration file.
       <tr><td>9:45-10:00 PDT</td><td>Break</td><td></td></tr>
       <tr><td>10:00-10:20 PDT</td><td>HTCondor Features</td><td><a href="https://docs.google.com/presentation/d/1LBMFaN7EoTkRDSbkkFRJzCgROsf5lKpH-Y5B6Tm3Bdc/edit?usp=sharing">Slides</a></td></tr>
       <tr><td>10:20-10:50 PDT</td><td>Campus Engagement</td><td></td></tr>
-      <tr><td>10:50-11:15 PDT</td><td>Supporting Your Campus Research on the Open Science Grid</td><a href="https://docs.google.com/presentation/d/17BRyVrqrKfycrD1ApjotwzI1_4Z3tP7Vzk4oEq9X8lY/edit?usp=sharing">Slides</a><td></td></tr>
+      <tr><td>10:50-11:15 PDT</td><td>Supporting Your Campus Research on the Open Science Grid</td><td><a href="https://docs.google.com/presentation/d/17BRyVrqrKfycrD1ApjotwzI1_4Z3tP7Vzk4oEq9X8lY/edit?usp=sharing">Slides</a></td></tr>
       <tr><td>11:15-11:45 PDT</td><td>Discussion</td><td></td></tr>
     </table>
   </div>
