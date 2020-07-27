@@ -10,7 +10,7 @@ humandate: "Monday, July 27, 2020"    # human-readable dates for the workshop (e
 humantime: "8:00am - 12:00pm PDT"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-07-27      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-07-27        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Christina Koch", "Carrie Brown", "Emelie Fuchs", "Lauren Michael", "Mats Rynge"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Christina Koch", "Carrie Brown", "Emelie Fuchs", "Lauren Michael", "Mats Rynge", "Jess Vera"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 # helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["ckoch5@wisc.edu", "carrie.brown@unl.edu", "rynge@isi.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://docs.google.com/document/d/1GkeHB5FfrhjkdcFEZXw6a4bkGNFo2WseeQQetwEXO5w/edit
