@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "cp"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
+carpentry: "cp"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").
 venue: "Empowering Research Computing at Your Campus Through the Open Science Grid"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
@@ -24,7 +24,7 @@ For a workshop please delete the following block
 <!--
 <div class="alert alert-warning" style="font-size: 120%;">
 Could your computational work benefit from the ability to concurrently run hundreds or thousands of independent computations, for free? The Open Science Grid (OSG) facilitates distributed high-throughput computing (dHTC) via a partnership of national labs, universities, and other organizations who contribute and share computing capacity for use by researchers across and beyond the United States. Individual researchers, institutions, or multi-institutional collaborations can access OSG via local submission points or through the OSG Connect service (freely available to U.S. academic, government, and non-profit researchers).   <br>
-  
+
   During this 3-hour tutorial, you'll learn to identify and run large HTC workloads and multi-step workflows via the OSG Connect service. OSG staff can also help you launch your own work!
 </div> -->
 
@@ -86,7 +86,7 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> A computer with an ssh client. We will have training/test accounts for participants to test-drive job submission in the Open Science Grid. 
+  <strong>Requirements:</strong> A computer with an ssh client. We will have training/test accounts for participants to test-drive job submission in the Open Science Grid.
 </p>
 
 {% comment %}
@@ -136,20 +136,16 @@ Display the contact email address set in the configuration file.
   <div class="col-md-8">
     <h2>Schedule and Links</h2>
     <p><b>Google Doc for Notes: <a href="https://docs.google.com/document/d/1GkeHB5FfrhjkdcFEZXw6a4bkGNFo2WseeQQetwEXO5w/edit">Document Link</a></b> </p>
-    
+
     <table class="table table-striped">
-      <tr><td>8:00-8:15 PDT</td> <td>User Account Requests</td> <td><a href="https://support.opensciencegrid.org/support/solutions/articles/5000632072-registration-and-login-for-osg-connect">Instructions</a> / <a href="https://www.osgconnect.net/signup">Sign up</a></td></tr>
-      <tr><td>8:15-8:50 PDT</td><td>Brief Overview of the Open Science Grid + Job Submission</td><td><a href="https://docs.google.com/presentation/d/17efQMhWy_8SapVyiVJw-L8F9Q5-xVHtj0LsbJQqLWwA/edit?usp=sharing">Slides</a> / <a href="https://github.com/OSGConnect/tutorial-osg-locations">Hands-on</a></td></tr>
-      <tr><td>8:50-9:00 PDT</td><td>High Performance and High Throughput Computing</td><td><a href="https://docs.google.com/presentation/d/1EkMs2gtLVSTSeyjbrxs-dF3IpCOEARQi9qGgeS5VeMU/edit?usp=sharing">Slides</a></td></tr>
-      <tr><td>9:00-9:15 PDT</td><td>What would be a good fit?</td><td></td></tr>
-      <tr><td>9:15-9:45 PDT</td><td>Research tutorials (autodock, blast, matlab)</td><td></td></tr>
+      <tr><td>8:00-8:15 PDT</td> <td>User Account Requests</td> <td><a href="https://support.opensciencegrid.org/support/solutions/articles/5000632072-registration-and-login-for-osg-connect">Instructions</a> / <a href="https://www.osgconnect.net/signup">Sign up</a></td><td></td></tr>
+      <tr><td>8:15-8:50 PDT</td><td>Brief Overview of the Open Science Grid + Job Submission</td><td><a href="https://docs.google.com/presentation/d/17efQMhWy_8SapVyiVJw-L8F9Q5-xVHtj0LsbJQqLWwA/edit?usp=sharing">Slides</a></td><td><a href="https://github.com/OSGConnect/tutorial-osg-locations">Hands-on</a></td></tr>
+      <tr><td>8:50-9:45 PDT</td><td>High Performance and High Throughput Computing</td><td><a href="https://docs.google.com/presentation/d/1EkMs2gtLVSTSeyjbrxs-dF3IpCOEARQi9qGgeS5VeMU/edit?usp=sharing">Slides</a></td><td><a href="https://github.com/OSGConnect/tutorial-AutoDockVina">Autodock</a>, <a href="https://github.com/OSGConnect/tutorial-blast-split">BLAST</a></td></tr>
       <tr><td>9:45-10:00 PDT</td><td>Break</td><td></td></tr>
       <tr><td>10:00-10:20 PDT</td><td>HTCondor Features</td><td><a href="https://docs.google.com/presentation/d/1LBMFaN7EoTkRDSbkkFRJzCgROsf5lKpH-Y5B6Tm3Bdc/edit?usp=sharing">Slides</a></td></tr>
-      <tr><td>10:20-10:35 PDT</td><td>General support topics</td><td></td></tr>
-      <tr><td>10:35-10:50 PDT</td><td>Challenges + Opportunities re: OSG</td><td></td></tr>
-      <tr><td>10:50-11:00 PDT</td><td>How do you find out if someone's workflow is HTC?</td><td><a href="https://docs.google.com/presentation/d/17BRyVrqrKfycrD1ApjotwzI1_4Z3tP7Vzk4oEq9X8lY/edit?usp=sharing">Slides</a></td></tr>
-      <tr><td>11:00-11:15 PDT</td><td>Action Plan</td><td></td></tr>
-      <tr><td>11:15-11:30 PDT</td><td>Feedback survey + open mic</td><td><a href="https://forms.gle/iF94uSymYtgDok5D9">Feedback Survey</a></td></tr>
+      <tr><td>10:20-11:00 PDT</td><td>Supporting OSG on Campuses</td><td><a href="https://docs.google.com/presentation/d/17BRyVrqrKfycrD1ApjotwzI1_4Z3tP7Vzk4oEq9X8lY/edit?usp=sharing">Slides</a></td><td></td></tr>
+      <tr><td>11:00-11:15 PDT</td><td>Action Plan</td><td></td><td></td></tr>
+      <tr><td>11:15-11:30 PDT</td><td>Feedback survey + open mic</td><td><a href="https://forms.gle/iF94uSymYtgDok5D9">Feedback Survey</a></td><td></td></tr>
     </table>
   </div>
 </div>
