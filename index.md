@@ -135,6 +135,8 @@ Display the contact email address set in the configuration file.
 <div class="row">
   <div class="col-md-8">
     <h2>Schedule and Links</h2>
+    <p><b>Google Doc for Notes: <a href="https://docs.google.com/document/d/1GkeHB5FfrhjkdcFEZXw6a4bkGNFo2WseeQQetwEXO5w/edit">Document Link</a></b> </p>
+    
     <table class="table table-striped">
       <tr><td>8:00-8:15 PDT</td> <td>User Account Requests</td> <td><a href="https://support.opensciencegrid.org/support/solutions/articles/5000632072-registration-and-login-for-osg-connect">Instructions</a> / <a href="https://www.osgconnect.net/signup">Sign up</a></td></tr>
       <tr><td>8:15-8:50 PDT</td><td>Brief Overview of the Open Science Grid + Job Submission</td><td><a href="https://docs.google.com/presentation/d/17efQMhWy_8SapVyiVJw-L8F9Q5-xVHtj0LsbJQqLWwA/edit?usp=sharing">Slides</a> / <a href="https://github.com/OSGConnect/tutorial-osg-locations">Hands-on</a></td></tr>
