@@ -6,10 +6,10 @@ address: "online"      # full street address of workshop (e.g., "Room A, 123 For
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "35.198132,-97.445449"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "Monday, July 27, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "8:00am - 12:00pm PDT"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2020-07-27      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2020-07-27        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+humandate: "Monday, February 8-9, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "11:00 am - 3:00 pm CDT"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2021-02-08      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2021-02-09       # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Christina Koch", "Carrie Brown", "Emelie Fuchs", "Lauren Michael", "Mats Rynge", "Jess Vera"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 # helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["ckoch5@wisc.edu", "carrie.brown@unl.edu", "rynge@isi.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
@@ -132,7 +132,7 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-md-8">
     <h2>Schedule and Links</h2>
     <p><b>Google Doc for Notes: <a href="https://docs.google.com/document/d/1GkeHB5FfrhjkdcFEZXw6a4bkGNFo2WseeQQetwEXO5w/edit">Document Link</a></b> </p>
@@ -148,7 +148,7 @@ Display the contact email address set in the configuration file.
       <tr><td>11:15-11:30 PDT</td><td>Feedback survey + open mic</td><td><a href="https://forms.gle/iF94uSymYtgDok5D9">Feedback Survey</a></td><td></td></tr>
     </table>
   </div>
-</div>
+</div> -->
 
 
 
