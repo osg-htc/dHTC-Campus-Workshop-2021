@@ -132,10 +132,11 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
-<!-- <div class="row">
+ <div class="row">
   <div class="col-md-8">
     <h2>Schedule and Links</h2>
-    <p><b>Google Doc for Notes: <a href="https://docs.google.com/document/d/1GkeHB5FfrhjkdcFEZXw6a4bkGNFo2WseeQQetwEXO5w/edit">Document Link</a></b> </p>
+    <p>Coming soon!</p>
+<!--    <p><b>Google Doc for Notes: <a href="https://docs.google.com/document/d/1GkeHB5FfrhjkdcFEZXw6a4bkGNFo2WseeQQetwEXO5w/edit">Document Link</a></b> </p>
 
     <table class="table table-striped">
       <tr><td>8:00-8:15 PDT</td> <td>User Account Requests</td> <td><a href="https://support.opensciencegrid.org/support/solutions/articles/5000632072-registration-and-login-for-osg-connect">Instructions</a> / <a href="https://www.osgconnect.net/signup">Sign up</a></td><td></td></tr>
@@ -146,9 +147,9 @@ Display the contact email address set in the configuration file.
       <tr><td>10:20-11:00 PDT</td><td>Supporting OSG on Your Campus</td><td><a href="https://docs.google.com/presentation/d/17BRyVrqrKfycrD1ApjotwzI1_4Z3tP7Vzk4oEq9X8lY/edit?usp=sharing">Slides</a></td><td></td></tr>
       <tr><td>11:00-11:15 PDT</td><td>Action Plan</td><td></td><td></td></tr>
       <tr><td>11:15-11:30 PDT</td><td>Feedback survey + open mic</td><td><a href="https://forms.gle/iF94uSymYtgDok5D9">Feedback Survey</a></td><td></td></tr>
-    </table>
+    </table> -->
   </div>
-</div> -->
+</div>
 
 
 
