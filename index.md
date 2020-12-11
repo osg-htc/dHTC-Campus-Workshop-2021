@@ -24,7 +24,7 @@ For a workshop please delete the following block
 
 <div class="alert alert-warning" style="font-size: 120%;">
 
-In this installment of dHTC Campus Workshops offered by the Partnership to Advance Throughput Computing (PATh), we'll offer a half-day training on "Using and Facilitating the Use of dHTC and OSG", followed by a half-day of Virtual Office Hours on all things dHTC for campus cyberinfrastructure (CI) staff. Registration is required for participants to receive virtual meeting room details via email.
+In this installment of dHTC Campus Workshops offered by the [Partnership to Advance Throughput Computing (PATh)](https://path-cc.io/), we'll offer a half-day training on "Using and Facilitating the Use of dHTC and OSG", followed by a half-day of Virtual Office Hours on all things dHTC for campus cyberinfrastructure (CI) staff. Registration is required for participants to receive virtual meeting room details via email.
 </div>
 
 {% comment %}
