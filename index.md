@@ -12,7 +12,7 @@ startdate: 2021-02-08      # machine-readable start date for the workshop in YYY
 enddate: 2021-02-09       # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Christina Koch", "Carrie Brown", "Emelie Fuchs", "Lauren Michael", "Mats Rynge", "Jess Vera"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 # helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["lmichael@wisc.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["support@opensciencegrid.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://docs.google.com/document/d/1GkeHB5FfrhjkdcFEZXw6a4bkGNFo2WseeQQetwEXO5w/edit
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
@@ -24,7 +24,7 @@ For a workshop please delete the following block
 
 <div class="alert alert-warning" style="font-size: 120%;">
 
-In this installment of dHTC Campus Workshops offered by the [Partnership to Advance Throughput Computing (PATh)](https://path-cc.io/), we'll offer a half-day training on "Using and Facilitating the Use of dHTC and OSG", followed by a half-day of Virtual Office Hours on all things dHTC for campus cyberinfrastructure (CI) staff. Registration is required for participants to receive virtual meeting room details via email.
+In this installment of dHTC Campus Workshops offered by the <a href="https://path-cc.io/">Partnership to Advance Throughput Computing (PATh)</a>, we'll offer a half-day training on "Using and Facilitating the Use of dHTC and OSG", followed by a half-day of Virtual Office Hours on all things dHTC for campus cyberinfrastructure (CI) staff. Registration is required for participants to receive virtual meeting room details via email.
 </div>
 
 {% comment %}
@@ -135,7 +135,7 @@ Display the contact email address set in the configuration file.
     <p>This 3-hour training (with 1-hour break) will include hands-on and discussion-based exercises on the following topics:</p>
     <ul>
       <li>Introduction to distributed high throughput computing (dHTC) approaches and systems</li>
-      <li>How to execute computational work on the [Open Science Grid](https://opensciencegrid.org/) (and via the [OSG Connect service](https://www.osgconnect.net/))</li>
+      <li>How to execute computational work on the <a href="https://opensciencegrid.org/">Open Science Grid</a> (and via the <a href="https://www.osgconnect.net">OSG Connect service<a/>)</li>
       <li>OSG support for 'big data'</li>
       <li>Identifying computational research that would be accelerated by dHTC approaches</li>
       <li>Facilitating researchers to advance their work through dHTC approaches and services</li>
@@ -145,9 +145,9 @@ Display the contact email address set in the configuration file.
   <div class="col-md-6">
     <h3>Day 2 Office Hours</h3>
     <h4>All Things dHTC!</h4>
-    <p>Members of the PATh will be available to answer any questions relevant to distributed high throughput computing computing (dHTC) and services for campuses (including everything discussed in our [October workshop](https://indico.fnal.gov/event/45998/timetable/#20201022)), with breakout rooms for:</p>
+    <p>Members of the PATh will be available to answer any questions relevant to distributed high throughput computing computing (dHTC) and services for campuses (including everything discussed in our <a href="https://indico.fnal.gov/event/45998/timetable/#20201022">October workshop</a>), with breakout rooms for:</p>
     <ul>
-      <li>services for building local dHTC capacity, including the [HTCondor Software Suite](https://research.cs.wisc.edu/htcondor/) (HTCSS)</li>
+      <li>services for building local dHTC capacity, including the <a href="https://research.cs.wisc.edu/htcondor/">HTCondor Software Suite (HTCSS)</a></li>
       <li>how to execute work on dHTC/HTCSS systems, including the OSG</li>
       <li>dHTC Facilitation and services for building Facilitation capacity</li>
       <li>local integration with the OSG (e.g. local "access points" and "data origins")</li>
