@@ -155,7 +155,6 @@ Display the contact email address set in the configuration file.
       <li>related services for cross-institution collaborations and science gateways</li>
     </ul>
   </div>
-</div>  </div>
 </div>
 
  <div class="row">
