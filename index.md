@@ -21,12 +21,11 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 For a workshop please delete the following block
 {% endcomment %}
 
-<!--
-<div class="alert alert-warning" style="font-size: 120%;">
-Could your computational work benefit from the ability to concurrently run hundreds or thousands of independent computations, for free? The Open Science Grid (OSG) facilitates distributed high-throughput computing (dHTC) via a partnership of national labs, universities, and other organizations who contribute and share computing capacity for use by researchers across and beyond the United States. Individual researchers, institutions, or multi-institutional collaborations can access OSG via local submission points or through the OSG Connect service (freely available to U.S. academic, government, and non-profit researchers).   <br>
 
-  During this 3-hour tutorial, you'll learn to identify and run large HTC workloads and multi-step workflows via the OSG Connect service. OSG staff can also help you launch your own work!
-</div> -->
+<div class="alert alert-warning" style="font-size: 120%;">
+
+In this installment of dHTC Campus Workshops offered by the Partnership to Advance Throughput Computing (PATh), we'll offer a half-day training on "Using and Facilitating the Use of dHTC and OSG", followed by a half-day of Virtual Office Hours on all things dHTC for campus cyberinfrastructure (CI) staff. Registration is required for participants to receive virtual meeting room details via email.
+</div>
 
 {% comment %}
 EVENTBRITE
@@ -132,9 +131,40 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
+<h2>Topics</h2>
+<div class="row">
+  <div class="col-md-6">
+    <h3>Day 1 Training</h3>
+    <h6>Using and Facilitating the Use of dHTC and OSG</h6>
+    <p>This 3-hour training (with 1-hour break) will include hands-on and discussion-based exercises on the following topics:</p>
+    <ul>
+      <li>Introduction to distributed high throughput computing (dHTC) approaches and systems</li>
+      <li>How to execute computational work on the [Open Science Grid](https://opensciencegrid.org/) (and via the [OSG Connect service](https://www.osgconnect.net/))</li>
+      <li>OSG support for 'big data'</li>
+      <li>Identifying computational research that would be accelerated by dHTC approaches</li>
+      <li>Facilitating researchers to advance their work through dHTC approaches and services</li>
+      <li>Services for building dHTC Facilitation capacity in campus teams</li>
+    </ul>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 2 Office Hours</h3>
+    <h6>All Things dHTC!</h6>
+    <p>Members of the PATh will be available to answer any questions relevant to distributed high throughput computing computing (dHTC) and services for campuses (including everything discussed in our [October workshop](https://indico.fnal.gov/event/45998/timetable/#20201022)), with breakout rooms for:</p>
+    <ul>
+      <li>services for building local dHTC capacity, including the [HTCondor Software Suite](https://research.cs.wisc.edu/htcondor/) (HTCSS)</li>
+      <li>how to execute work on dHTC/HTCSS systems, including the OSG</li>
+      <li>dHTC Facilitation and services for building Facilitation capacity</li>
+      <li>local integration with the OSG (e.g. local "access points" and "data origins")</li>
+      <li>sharing local cluster capacity via the OSG tools and services</li>
+      <li>related services for cross-institution collaborations and science gateways</li>
+    </ul>
+  </div>
+</div>  </div>
+</div>
+
  <div class="row">
   <div class="col-md-8">
-    <h2>Schedule and Links</h2>
+    <h2>Detailed Schedule and Materials</h2>
     <p>Coming soon!</p>
 <!--    <p><b>Google Doc for Notes: <a href="https://docs.google.com/document/d/1GkeHB5FfrhjkdcFEZXw6a4bkGNFo2WseeQQetwEXO5w/edit">Document Link</a></b> </p>
 
@@ -150,7 +180,6 @@ Display the contact email address set in the configuration file.
     </table> -->
   </div>
 </div>
-
 
 
 
