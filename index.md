@@ -6,7 +6,7 @@ address: "online"      # full street address of workshop (e.g., "Room A, 123 For
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "35.198132,-97.445449"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "Monday, February 8-9, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "February 8-9, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "11:00 am - 3:00 pm CDT"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-02-08      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-02-09       # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
@@ -135,7 +135,7 @@ Display the contact email address set in the configuration file.
 <div class="row">
   <div class="col-md-6">
     <h3>Day 1 Training</h3>
-    <h6>Using and Facilitating the Use of dHTC and OSG</h6>
+    <h4>Using and Facilitating the Use of dHTC and OSG</h4>
     <p>This 3-hour training (with 1-hour break) will include hands-on and discussion-based exercises on the following topics:</p>
     <ul>
       <li>Introduction to distributed high throughput computing (dHTC) approaches and systems</li>
@@ -148,7 +148,7 @@ Display the contact email address set in the configuration file.
   </div>
   <div class="col-md-6">
     <h3>Day 2 Office Hours</h3>
-    <h6>All Things dHTC!</h6>
+    <h4>All Things dHTC!</h4>
     <p>Members of the PATh will be available to answer any questions relevant to distributed high throughput computing computing (dHTC) and services for campuses (including everything discussed in our [October workshop](https://indico.fnal.gov/event/45998/timetable/#20201022)), with breakout rooms for:</p>
     <ul>
       <li>services for building local dHTC capacity, including the [HTCondor Software Suite](https://research.cs.wisc.edu/htcondor/) (HTCSS)</li>
