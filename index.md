@@ -89,9 +89,9 @@ This block displays the date and links to Google Calendar.
 </p>
 {% endif %}
 
-<form>
+<center><form>
 <button name="button" style="background-color: D71920; padding: 15px 32px" formaction="https://indico.fnal.gov/event/46925/">Register to Attend</button>
-</form>
+</form></center>
 
 {% comment %}
 SPECIAL REQUIREMENTS
@@ -152,7 +152,8 @@ Display the contact email address set in the configuration file.
 
     <table class="table table-striped">
       <tr>
-        <td>1:00-1:30 CDT</td> <td>Introduction to dHTC and OSG</td>
+        <td>1:00-1:30 CDT</td>
+        <td>Introduction to dHTC and OSG</td>
         <td></td>
         <td></td>
       </tr>
@@ -167,7 +168,7 @@ Display the contact email address set in the configuration file.
         <td>Running dHTC Jobs via HTCondor</td>
         <td>/td>
         <td></td>
-      </tr>  https://docs.google.com/document/d/1xVWg16d7gI0u7AJVRdYOSrSzkDfTbfKxmHX18UwrGrM/edit#
+      </tr>
       <tr>
         <td>2:00-2:15 CDT</td>
         <td>Software and Data Support in OSG</td>
@@ -193,18 +194,16 @@ Display the contact email address set in the configuration file.
         <td></td>
       </tr>
       <tr>
-      <td>3:20-4:00 CDT</td>
-      <td>Hands On: Running dHTC Jobs on OSG with HTCondor</td>
-      <td></td>
-      <td></td>
+        <td>3:20-4:00 CDT</td>
+        <td>Hands On: Running dHTC Jobs on OSG with HTCondor</td>
+        <td></td>
+        <td></td>
       </tr>
     </table>
   </div>
 </div>
 
-<!-- <div class="row">
-  <div class="col-md-8"> -->
-    <h2>For More Information:</h2>
+    <h2>Open Office Hours: All Things dHTC!</h2>
 
     <p>Join us on February 9th from 1:00-4:00 CDT for Open Office Hours. Members of the PATh will be available to answer any questions relevant to distributed high throughput computing computing (dHTC) and services for campuses (including everything discussed in our <a href="https://indico.fnal.gov/event/45998/timetable/#20201022">October workshop</a>), with breakout rooms for:</p>
 <ul>
@@ -215,6 +214,5 @@ Display the contact email address set in the configuration file.
   <li>sharing local cluster capacity via the OSG tools and services</li>
   <li>related services for cross-institution collaborations and science gateways</li>
 </ul>
-
 
 <p>For more information, or to register, visit the <a href="https://indico.fnal.gov/event/46925/">dHTC Campus Workshop page on Indico</a>.
