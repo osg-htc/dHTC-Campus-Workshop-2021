@@ -20,16 +20,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <p>In this installment of dHTC Campus Workshops offered by the <a href="https://path-cc.io/">Partnership to Advance Throughput Computing (PATh)</a>, we'll offer a half-day training on "Using and Facilitating the Use of dHTC and OSG", followed by a half-day of Virtual Office Hours on all things dHTC for campus cyberinfrastructure (CI) staff. Registration is required for participants to receive virtual meeting room details via email.</p>
 
-<p>This 3-hour training will include hands-on and discussion-based exercises on the following topics:</p>
-<ul>
-  <li>Introduction to distributed high throughput computing (dHTC) approaches and systems</li>
-  <li>How to execute computational work on the <a href="https://opensciencegrid.org/">Open Science Grid</a> (and via the <a href="https://www.osgconnect.net">OSG Connect service</a>)</li>
-  <li>OSG support for 'big data'</li>
-  <li>Identifying computational research that would be accelerated by dHTC approaches</li>
-  <li>Facilitating researchers to advance their work through dHTC approaches and services</li>
-  <li>Services for building dHTC Facilitation capacity in campus teams</li>
-</ul>
-
 {% comment %}
 LOCATION
 
@@ -57,6 +47,15 @@ This block displays the date and links to Google Calendar.
   {% include workshop_calendar.html %}
 </p>
 {% endif %}
+<p>This 3-hour training will include hands-on and discussion-based exercises on the following topics:</p>
+<ul>
+  <li>Introduction to distributed high throughput computing (dHTC) approaches and systems</li>
+  <li>How to execute computational work on the <a href="https://opensciencegrid.org/">Open Science Grid</a> (and via the <a href="https://www.osgconnect.net">OSG Connect service</a>)</li>
+  <li>OSG support for 'big data'</li>
+  <li>Identifying computational research that would be accelerated by dHTC approaches</li>
+  <li>Facilitating researchers to advance their work through dHTC approaches and services</li>
+  <li>Services for building dHTC Facilitation capacity in campus teams</li>
+</ul>
 
 <center><form>
 <button name="button" style="background-color: D71920; padding: 15px 32px" formaction="https://indico.fnal.gov/event/46925/">Register to Attend</button>
@@ -154,9 +153,9 @@ Display the contact email address set in the configuration file.
   </div>
 </div>
 
-    <h2>Open Office Hours: All Things dHTC!</h2>
+<h2>Open Office Hours: All Things dHTC!</h2>
 
-    <p>Join us on February 9th from 1:00-4:00 CDT for Open Office Hours. Members of the PATh will be available to answer any questions relevant to distributed high throughput computing computing (dHTC) and services for campuses (including everything discussed in our <a href="https://indico.fnal.gov/event/45998/timetable/#20201022">October workshop</a>), with breakout rooms for:</p>
+<p>Join us on February 9th from 1:00-4:00 CDT for Open Office Hours. Members of the PATh will be available to answer any questions relevant to distributed high throughput computing computing (dHTC) and services for campuses (including everything discussed in our <a href="https://indico.fnal.gov/event/45998/timetable/#20201022">October workshop</a>), with breakout rooms for:</p>
 <ul>
   <li>services for building local dHTC capacity, including the HTCondor Software Suite (HTCSS)</li>
   <li>how to execute work on dHTC/HTCSS systems, including the OSG</li>
