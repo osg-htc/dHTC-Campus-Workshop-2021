@@ -51,7 +51,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <p>In this installment of dHTC Campus Workshops offered by the <a href="https://path-cc.io/">Partnership to Advance Throughput Computing (PATh)</a>, we'll offer a half-day training on "Using and Facilitating the Use of dHTC and OSG", followed by a half-day of Virtual Office Hours on all things dHTC for campus cyberinfrastructure (CI) staff. Registration is required for participants to receive virtual meeting room details via email.</p>
 
-    <p>This 3-hour training will include hands-on and discussion-based exercises on the following topics:</p>
+    <p>This 3-hour training will include hands-on and discussion-based exercises on the following topics:
     <ul>
       <li>Introduction to distributed high throughput computing (dHTC) approaches and systems</li>
       <li>How to execute computational work on the <a href="https://opensciencegrid.org/">Open Science Grid</a> (and via the <a href="https://www.osgconnect.net">OSG Connect service</a>)</li>
@@ -60,7 +60,7 @@ displayed if the 'eventbrite' field in the header is not set.
       <li>Facilitating researchers to advance their work through dHTC approaches and services</li>
       <li>Services for building dHTC Facilitation capacity in campus teams</li>
     </ul>
-  </div>
+</p>
 {% comment %}
 LOCATION
 
