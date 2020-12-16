@@ -16,51 +16,20 @@ email: ["support@opensciencegrid.org"]    # boxed, comma-separated list of conta
 collaborative_notes: https://docs.google.com/document/d/1GkeHB5FfrhjkdcFEZXw6a4bkGNFo2WseeQQetwEXO5w/edit
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
-
-{% comment %}
-For a workshop please delete the following block
-{% endcomment %}
-
-
-<div class="alert alert-warning" style="font-size: 120%;">
-
-In this installment of dHTC Campus Workshops offered by the <a href="https://path-cc.io/">Partnership to Advance Throughput Computing (PATh)</a>, we'll offer a half-day training on "Using and Facilitating the Use of dHTC and OSG", followed by a half-day of Virtual Office Hours on all things dHTC for campus cyberinfrastructure (CI) staff. Registration is required for participants to receive virtual meeting room details via email.
-</div>
-
-
-
-{% comment %}
-EVENTBRITE
-
-This block includes the Eventbrite registration widget if
-'eventbrite' has been set in the header.  You can delete it if you
-are not using Eventbrite, or leave it in, since it will not be
-displayed if the 'eventbrite' field in the header is not set.
-{% endcomment %}
-{% if page.eventbrite %}
-<iframe
-  src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
-  frameborder="0"
-  width="100%"
-  height="280px"
-  scrolling="auto">
-</iframe>
-{% endif %}
-
 <h2 id="general">General Information</h2>
 
 <p>In this installment of dHTC Campus Workshops offered by the <a href="https://path-cc.io/">Partnership to Advance Throughput Computing (PATh)</a>, we'll offer a half-day training on "Using and Facilitating the Use of dHTC and OSG", followed by a half-day of Virtual Office Hours on all things dHTC for campus cyberinfrastructure (CI) staff. Registration is required for participants to receive virtual meeting room details via email.</p>
 
-    <p>This 3-hour training will include hands-on and discussion-based exercises on the following topics:
-    <ul>
-      <li>Introduction to distributed high throughput computing (dHTC) approaches and systems</li>
-      <li>How to execute computational work on the <a href="https://opensciencegrid.org/">Open Science Grid</a> (and via the <a href="https://www.osgconnect.net">OSG Connect service</a>)</li>
-      <li>OSG support for 'big data'</li>
-      <li>Identifying computational research that would be accelerated by dHTC approaches</li>
-      <li>Facilitating researchers to advance their work through dHTC approaches and services</li>
-      <li>Services for building dHTC Facilitation capacity in campus teams</li>
-    </ul>
-</p>
+<p>This 3-hour training will include hands-on and discussion-based exercises on the following topics:</p>
+<ul>
+  <li>Introduction to distributed high throughput computing (dHTC) approaches and systems</li>
+  <li>How to execute computational work on the <a href="https://opensciencegrid.org/">Open Science Grid</a> (and via the <a href="https://www.osgconnect.net">OSG Connect service</a>)</li>
+  <li>OSG support for 'big data'</li>
+  <li>Identifying computational research that would be accelerated by dHTC approaches</li>
+  <li>Facilitating researchers to advance their work through dHTC approaches and services</li>
+  <li>Services for building dHTC Facilitation capacity in campus teams</li>
+</ul>
+
 {% comment %}
 LOCATION
 
@@ -102,23 +71,6 @@ Modify the block below if there are any special requirements.
   <strong>Requirements:</strong> A computer with an ssh client. We will have training/test accounts for participants to test-drive job submission in the Open Science Grid.
 </p> -->
 
-{% comment %}
-
-ACCESSIBILITY
-
-Modify the block below if there are any barriers to accessibility or
-special instructions.
-
-<!-- <p id="accessibility">
-  <strong>Accessibility:</strong> We are committed to making this workshop
-  accessible to everybody.
-  The workshop organizers have checked that:
-</p>
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul> -->
-{% endcomment %}
 
 {% comment %}
 CONTACT EMAIL ADDRESS
