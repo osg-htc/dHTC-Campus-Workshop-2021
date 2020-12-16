@@ -100,7 +100,6 @@ Display the contact email address set in the configuration file.
  <div class="row">
   <div class="col-md-8">
     <h2>Detailed Schedule and Materials</h2>
-<!--    <p><b>Google Doc for Notes: <a href="">Document Link</a></b> </p> -->
 
     <table class="table table-striped">
       <tr>
@@ -118,13 +117,13 @@ Display the contact email address set in the configuration file.
       <tr>
         <td>1:40-2:00 CDT</td>
         <td>Running dHTC Jobs via HTCondor</td>
-        <td>/td>
+        <td></td>
         <td></td>
       </tr>
       <tr>
         <td>2:00-2:15 CDT</td>
         <td>Software and Data Support in OSG</td>
-        <td>/td>
+        <td></td>
         <td></td>
       </tr>
       <tr>
