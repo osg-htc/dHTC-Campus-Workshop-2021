@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "cp"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").
-venue: "Empowering Research Computing at Your Campus Through the Open Science Grid"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Using and Facilitating the Use of dHTC and OSG"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
@@ -153,7 +153,7 @@ Display the contact email address set in the configuration file.
   </div>
 </div>
 
-<h2>Open Office Hours: All Things dHTC!</h2>
+<h3>Open Office Hours: All Things dHTC!</h3>
 
 <p>Join us on February 9th from 1:00-4:00 CDT for Open Office Hours. Members of the PATh will be available to answer any questions relevant to distributed high throughput computing computing (dHTC) and services for campuses (including everything discussed in our <a href="https://indico.fnal.gov/event/45998/timetable/#20201022">October workshop</a>), with breakout rooms for:</p>
 <ul>
