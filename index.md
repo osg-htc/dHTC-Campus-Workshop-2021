@@ -152,7 +152,7 @@ Display the contact email address set in the configuration file.
     </table>
   </div>
 </div>
-
+<!--
 <h3>Open Office Hours: All Things dHTC!</h3>
 
 <p>Join us on February 9th from 1:00-4:00 CDT for Open Office Hours. Members of the PATh will be available to answer any questions relevant to distributed high throughput computing (dHTC) and services for campuses (including everything discussed in our <a href="https://indico.fnal.gov/event/45998/timetable/#20201022">October workshop</a>), with breakout rooms for:</p>
@@ -164,5 +164,6 @@ Display the contact email address set in the configuration file.
   <li>sharing local cluster capacity via the OSG tools and services</li>
   <li>related services for cross-institution collaborations and science gateways</li>
 </ul>
+-->
 
 <p>For more information, or to register, visit the <a href="https://indico.fnal.gov/event/46925/">dHTC Campus Workshop page on Indico</a>.
