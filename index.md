@@ -108,38 +108,32 @@ Display the contact email address set in the configuration file.
         <td></td>
       </tr>
       <tr>
-        <td>1:30-1:40 CDT</td>
-        <td>Break</td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>1:40-2:00 CDT</td>
+        <td>1:30-1:50 CDT</td>
         <td>Running dHTC Jobs via HTCondor</td>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <td>2:00-2:15 CDT</td>
+        <td>1:50-2:10 CDT</td>
         <td>Software and Data Support in OSG</td>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <td>2:15-2:45 CDT</td>
+        <td>2:10-2:40 CDT</td>
         <td>Break</td>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <td>2:45-3:00 CDT</td>
-        <td>Account Setup</td>
+        <td>2:40-3:00 CDT</td>
+        <td>dHTC Facilitation for Researchers on Your Campus</td>
         <td></td>
         <td></td>
       </tr>
       <tr>
-        <td>3:00-3:20 CDT</td>
-        <td>dHTC Facilitation for Researchers on Your Campus</td>
+        <td>3:00-3:15 CDT</td>
+        <td>Account Setup</td>
         <td></td>
         <td></td>
       </tr>
