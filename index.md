@@ -10,7 +10,7 @@ humandate: "February 8, 2021"    # human-readable dates for the workshop (e.g., 
 humantime: "1:00 pm - 4:00 pm CDT"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-02-08      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-02-08       # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Christina Koch", "Carrie Brown", "Emelie Fuchs", "Lauren Michael", "Mats Rynge", "Jess Vera"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Emelie Fuchs", "Christina Koch", "Lauren Michael", "Mats Rynge", "Jess Vera"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 # helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["support@opensciencegrid.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://docs.google.com/document/d/1GkeHB5FfrhjkdcFEZXw6a4bkGNFo2WseeQQetwEXO5w/edit
@@ -102,34 +102,40 @@ Display the contact email address set in the configuration file.
 
     <table class="table table-striped">
       <tr>
+        <th>Time</th>
+        <th>Topic</th>
+        <th></th>
+        <th>Materials</th>
+      </tr>
+      <tr>
         <td>1:00-1:30 CDT</td>
         <td>Introduction to dHTC and OSG</td>
         <td></td>
-        <td></td>
+        <td>Presentation</td>
       </tr>
       <tr>
         <td>1:30-1:50 CDT</td>
         <td>Running dHTC Jobs via HTCondor</td>
         <td></td>
-        <td></td>
+        <td>Presentation</td>
       </tr>
       <tr>
         <td>1:50-2:10 CDT</td>
         <td>Software and Data Support in OSG</td>
         <td></td>
-        <td></td>
+        <td>Presentation</td>
       </tr>
       <tr>
         <td>2:10-2:40 CDT</td>
         <td>Break</td>
         <td></td>
-        <td></td>
+        <td>Presentation</td>
       </tr>
       <tr>
         <td>2:40-3:00 CDT</td>
         <td>dHTC Facilitation for Researchers on Your Campus</td>
         <td></td>
-        <td></td>
+        <td>Presentation</td>
       </tr>
       <tr>
         <td>3:00-3:15 CDT</td>
@@ -141,7 +147,14 @@ Display the contact email address set in the configuration file.
         <td>3:20-4:00 CDT</td>
         <td>Hands On Exercises: Running dHTC Jobs on OSG with HTCondor</td>
         <td></td>
-        <td></td>
+        <td><ul>
+          <li><a href="">Quickstart</a></li>
+          <li><a href="">OSG Locations</a></li>
+          <li><a href="">AutoDock Vina</a></li>
+          <li><a href="">Tensorflow with Containers</a></li>
+          <li><a href="">Submitting Multiple Jobs</a></li>
+          <li><a href="">HTC Workflow Example with BLAST</a></li>
+        </ul></td>
       </tr>
     </table>
   </div>
