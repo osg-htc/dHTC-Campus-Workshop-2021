@@ -98,7 +98,7 @@ Display the contact email address set in the configuration file.
 
  <div class="row">
   <div class="col-md-8">
-    <h2>Detailed Schedule</h2>
+    <h2>Detailed Schedule and Materials</h2>
 
     <table class="table table-striped">
       <tr>
@@ -159,9 +159,6 @@ Display the contact email address set in the configuration file.
     </table>
   </div>
 </div>
-
-<h3>Materials</h3>
-<p>Coming soon!</p>
 <!--
 <h3>Open Office Hours: All Things dHTC!</h3>
 
