@@ -151,7 +151,7 @@ Display the contact email address set in the configuration file.
           <li><a href="https://support.opensciencegrid.org/support/solutions/articles/5000633410-osg-connect-quickstart">Quickstart Guide</a></li>
           <li><a href="https://support.opensciencegrid.org/support/solutions/articles/12000061978-finding-osg-locations">OSG Locations</a></li>
           <li><a href="https://support.opensciencegrid.org/support/solutions/articles/5000634379-running-a-molecule-docking-job-with-autodock-vina">AutoDock Vina</a></li>
-          <li><a href="">Tensorflow with Containers</a></li>
+          <li><a href="https://support.opensciencegrid.org/support/solutions/articles/12000028940-working-with-tensorflow-gpus-and-containers">Tensorflow with Containers</a></li>
           <li><a href="https://support.opensciencegrid.org/support/solutions/articles/12000062019-scaling-up-with-htcondor-s-queue-command">Submitting Multiple Jobs</a></li>
           <li><a href="https://support.opensciencegrid.org/support/solutions/articles/12000062020-running-a-blast-workflow">HTC Workflow Example with BLAST</a></li>
         </ul></td>
