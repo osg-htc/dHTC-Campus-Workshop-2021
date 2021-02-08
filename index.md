@@ -111,31 +111,31 @@ Display the contact email address set in the configuration file.
         <td>1:00-1:30 CDT</td>
         <td>Introduction to dHTC and OSG</td>
         <td></td>
-        <td>Presentation</td>
+        <td><a href="https://docs.google.com/presentation/d/1i885KBu9g-A9fHWJPIVoypgH2s93osXLIf3ti-7_nl0/edit?usp=sharing">Presentation</a></td>
       </tr>
       <tr>
         <td>1:30-1:50 CDT</td>
         <td>Running dHTC Jobs via HTCondor</td>
         <td></td>
-        <td>Presentation</td>
+        <td><a href="https://docs.google.com/presentation/d/16WAkJtC_OR_bYwYPzJtXs-AwkTx0KZLA4ktVjGRB7pE/edit?usp=sharing">Presentation</a></td>
       </tr>
       <tr>
         <td>1:50-2:10 CDT</td>
         <td>Software and Data Support in OSG</td>
         <td></td>
-        <td>Presentation</td>
+        <td><a href="https://docs.google.com/presentation/d/1dA7a5_etLOmPVBtfZmeRTAUI1-Gy0GXcWjcnX12FZ78/edit?usp=sharing">Presentation</a></td>
       </tr>
       <tr>
         <td>2:10-2:40 CDT</td>
         <td>Break</td>
         <td></td>
-        <td>Presentation</td>
+        <td></td>
       </tr>
       <tr>
         <td>2:40-3:00 CDT</td>
         <td>dHTC Facilitation for Researchers on Your Campus</td>
         <td></td>
-        <td>Presentation</td>
+        <td><a href="https://docs.google.com/presentation/d/1arT68ArXFk_kqKEJEeGk6VGlF9zXUrepLo8BTgXwRrA/edit?usp=sharing">Presentation</a></td>
       </tr>
       <tr>
         <td>3:00-3:15 CDT</td>
