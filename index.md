@@ -149,6 +149,7 @@ Display the contact email address set in the configuration file.
         <td>Account Setup</td>
         <td></td>
         <td></td>
+  <td></td>
       </tr>
       <tr>
         <td>3:20-4:00 CDT</td>
