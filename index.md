@@ -106,36 +106,43 @@ Display the contact email address set in the configuration file.
         <th>Topic</th>
         <th></th>
         <th>Materials</th>
+        <th>Recording</th>
       </tr>
       <tr>
         <td>1:00-1:30 CDT</td>
         <td>Introduction to dHTC and OSG</td>
         <td></td>
         <td><a href="https://docs.google.com/presentation/d/1i885KBu9g-A9fHWJPIVoypgH2s93osXLIf3ti-7_nl0/edit?usp=sharing">Presentation</a></td>
+        <td><a href="https://www.youtube.com/watch?v=t2PzIy-vvaE&list=PLBWb4iScSWcPy7LQ4BuXmm8Z2xO4ZW1J_">Video</a></td>
       </tr>
       <tr>
         <td>1:30-1:50 CDT</td>
         <td>Running dHTC Jobs via HTCondor</td>
         <td></td>
         <td><a href="https://docs.google.com/presentation/d/16WAkJtC_OR_bYwYPzJtXs-AwkTx0KZLA4ktVjGRB7pE/edit?usp=sharing">Presentation</a></td>
-      </tr>
+        <td><a href="https://www.youtube.com/watch?v=or1FMXQcp00&list=PLBWb4iScSWcPy7LQ4BuXmm8Z2xO4ZW1J_&index=2">Video</a></td>
+ </tr>
       <tr>
         <td>1:50-2:10 CDT</td>
         <td>Software and Data Support in OSG</td>
         <td></td>
         <td><a href="https://docs.google.com/presentation/d/1dA7a5_etLOmPVBtfZmeRTAUI1-Gy0GXcWjcnX12FZ78/edit?usp=sharing">Presentation</a></td>
-      </tr>
+         <td><a href="https://www.youtube.com/watch?v=B-YjQOgwT68&list=PLBWb4iScSWcPy7LQ4BuXmm8Z2xO4ZW1J_&index=3">Video</a></td>
+
+ </tr>
       <tr>
         <td>2:10-2:40 CDT</td>
         <td>Break</td>
         <td></td>
         <td></td>
-      </tr>
+  <td></td>
+</tr>
       <tr>
         <td>2:40-3:00 CDT</td>
         <td>dHTC Facilitation for Researchers on Your Campus</td>
         <td></td>
         <td><a href="https://docs.google.com/presentation/d/1arT68ArXFk_kqKEJEeGk6VGlF9zXUrepLo8BTgXwRrA/edit?usp=sharing">Presentation</a></td>
+        <td><a href="https://www.youtube.com/watch?v=GL_t3affGfo&list=PLBWb4iScSWcPy7LQ4BuXmm8Z2xO4ZW1J_&index=4">Video</a></td>
       </tr>
       <tr>
         <td>3:00-3:15 CDT</td>
@@ -154,6 +161,7 @@ Display the contact email address set in the configuration file.
           <li><a href="https://support.opensciencegrid.org/support/solutions/articles/12000062019-scaling-up-with-htcondor-s-queue-command">Submitting Multiple Jobs</a></li>
           <li><a href="https://support.opensciencegrid.org/support/solutions/articles/12000062020-running-a-blast-workflow">HTC Workflow Example with BLAST</a></li>
         </ul></td>
+        <td></td>
       </tr>
     </table>
   </div>
