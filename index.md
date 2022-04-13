@@ -50,7 +50,7 @@ This block displays the date and links to Google Calendar.
 <p>This 3-hour training will include hands-on and discussion-based exercises on the following topics:</p>
 <ul>
   <li>Introduction to distributed high throughput computing (dHTC) approaches and systems</li>
-  <li>How to execute computational work on the <a href="https://opensciencegrid.org/">Open Science Grid</a> (and via the <a href="https://www.osgconnect.net">OSG Connect service</a>)</li>
+  <li>How to execute computational work on the <a href="https://osg-htc.org/">Open Science Grid</a> (and via the <a href="https://www.osgconnect.net">OSG Connect service</a>)</li>
   <li>OSG support for 'big data'</li>
   <li>Identifying computational research that would be accelerated by dHTC approaches</li>
   <li>Facilitating researchers to advance their work through dHTC approaches and services</li>
